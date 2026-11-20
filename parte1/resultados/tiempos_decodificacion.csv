@@ -1,0 +1,7 @@
+idioma,archivo,metodo,repeticiones,promedio_ms,desviacion_estandar_ms
+Español,el_si_de_las_ninas.txt,Diccionario inverso,200,16.954799,0.299115
+Español,el_si_de_las_ninas.txt,Árbol de Huffman,200,25.027965,0.442056
+Francés,le_chat_du_neptune.txt,Diccionario inverso,200,4.480519,0.056277
+Francés,le_chat_du_neptune.txt,Árbol de Huffman,200,6.190348,0.093175
+Inglés,jekyll_and_hyde.txt,Diccionario inverso,200,20.574431,0.206168
+Inglés,jekyll_and_hyde.txt,Árbol de Huffman,200,28.628783,0.302603
